@@ -1,0 +1,19 @@
+{
+  "name": "pokit-partners",
+  "version": "1.0.0",
+  "description": "Displays data from PokitDok API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "author": "Joe W",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "pokitdok-nodejs": "0.0.7"
+  }
+}

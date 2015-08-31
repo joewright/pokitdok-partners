@@ -1,6 +1,6 @@
 #PokitDok Test app
 
-Heroku app that lists and provides client-side search for PokitDok trading partners info.
+Heroku app that provides client-side search for PokitDok trading partners info.
 
 Requirements
 
